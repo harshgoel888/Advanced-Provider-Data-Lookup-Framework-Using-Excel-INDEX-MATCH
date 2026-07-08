@@ -1,16 +1,31 @@
 # Advanced-Provider-Data-Lookup-Framework-Using-Excel-INDEX-MATCH
 
-Healthcare analytics becomes more challenging as datasets grow more complex.
-I developed a provider data lookup framework in Excel to demonstrate how scalable data structures can improve accuracy and reliability in provider-level analytics workflows.
-The framework addresses common challenges such as:
-• Provider IDs linked to multiple records
-• Multi-attribute matching requirements
-• Missing data impacting downstream calculations
-By using composite-key matching (Provider ID + Specialty), structured validation logic, and error handling, the framework creates a reusable approach that can support more complex healthcare analytics workflows.
-Although the dataset is synthetic, the design principles apply broadly to healthcare finance and compensation analytics environments where accurate provider data is essential.
-Skills demonstrated:
-• Excel INDEX-MATCH
-• Multi-Criteria Lookup Design
-• Composite Keys
-• Data Validation Controls
-• Scalable Analytics Workflow Design
+# Multi-Criteria Provider Data Lookup Framework Using Excel
+
+## Project Overview
+
+Healthcare analytics becomes more challenging as datasets grow more complex. This project demonstrates an Excel-based provider data lookup framework designed to improve accuracy, reliability, and scalability in provider-level analytics workflows.
+
+The framework addresses common data challenges, including:
+
+- Provider IDs linked to multiple records
+- Multi-attribute matching requirements
+- Missing lookup values affecting downstream calculations
+
+## Framework Approach
+
+The workbook uses composite-key matching (Provider ID + Specialty), structured validation logic, and error-handling controls to create a reusable lookup framework that can support more complex healthcare analytics workflows.
+
+The design principles demonstrated are applicable to healthcare finance and compensation analytics environments where accurate provider-level data supports reporting, incentive calculations, and operational decision-making.
+
+## Dataset Disclaimer
+
+All data is synthetic and created for educational purposes only. It does not represent actual provider compensation data.
+
+## Skills Demonstrated
+
+- Excel INDEX-MATCH
+- Multi-Criteria Lookup Design
+- Composite Keys
+- Data Validation Controls
+- Scalable Analytics Workflow Design
